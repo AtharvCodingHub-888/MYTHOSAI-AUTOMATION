@@ -1,0 +1,6 @@
+{
+  "name": "Mythos AI Portfolio",
+  "description": "Enterprise Portfolio and AI Command Center for Mythos AI Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
